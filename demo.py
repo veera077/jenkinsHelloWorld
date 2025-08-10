@@ -1,2 +1,2 @@
-a=10
+print("new updtae")
 print("hello world")
